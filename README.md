@@ -43,7 +43,7 @@ Welcome to my data analysis portfolio! I'm Raymond, a data analyst with strong s
 ---
 
 ### 3. **IBM Employee Salary Analysis**
-**Tools**: R, ggplot2, dplyr,   
+**Tools**: R, ggplot2, dplyr, Tableau  
 **Skills**: Descriptive stats, EDA, salary comparison  
 - Analyzed internal salary data to assess pay disparities  
 - Explored relationships between department, education, and compensation  
