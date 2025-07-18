@@ -58,7 +58,7 @@ Welcome to my data analysis portfolio! I'm Raymond, a data analyst with strong s
 - Mapped income by role and location using interactive plots  
 - Provided insight into global tech compensation trends
 
-[View Dashboard](#)
+[View Dashboard](1 Data analytics IT job salaries project.png)
 
 ---
 
