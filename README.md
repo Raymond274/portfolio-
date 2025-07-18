@@ -25,7 +25,7 @@ Welcome to my data analysis portfolio! I'm Raymond, a data analyst with strong s
 - Analyzed usage by time, season, and user type  
 - Identified patterns in peak hours and urban mobility
 
-[View Dashboard](#)  
+[View Dashboard](4 Analysis of Nairobi bike rides beween 205-2016.png)  
 
 ---
 
