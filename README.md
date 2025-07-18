@@ -47,7 +47,7 @@ Welcome to my data analysis portfolio! I'm Raymond, a data analyst with strong s
 - Explored relationships between department, education, and compensation  
 - Provided visual summaries for HR policy recommendations
 
-[View Dashboard](#)
+[View Dashboard](2 Data analytics IBM Employees salaries per department project.png)
 
 ---
 
