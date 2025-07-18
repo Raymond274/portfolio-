@@ -64,7 +64,7 @@ Welcome to my data analysis portfolio! I'm Raymond, a data analyst with strong s
 
 ## 📬 Let's Connect
 
-- 📧 Email: otienoraymond538@gmail.com  
+- 📧 Email: otienoraymond10@gmail.com  
 - 💼 LinkedIn: [Your LinkedIn URL]  
 - 🌐 Portfolio Website: [Your portfolio site URL if any]
 
