@@ -38,7 +38,7 @@ Welcome to my data analysis portfolio! I'm Raymond, a data analyst with strong s
 - Visualized global content distribution and genre trends
 
 ![View Dashboard](3 Data Analytics Netflix Movies & TV Shows watched project.png)
-[🔗 View Full Interactive Dashboard on Tableau Public](#)
+[🔗 View Full Interactive Dashboard on Tableau Public](https://public.tableau.com/app/profile/ray.otieno/viz/NetflixDashboard_17528676873730/Netflix?publish=yes)
 
 ---
 
@@ -50,7 +50,7 @@ Welcome to my data analysis portfolio! I'm Raymond, a data analyst with strong s
 - Provided visual summaries for HR policy recommendations
 
 ![View Dashboard](2 Data analytics IBM Employees salaries per department project.png)
-[🔗 View Full Interactive Dashboard on Tableau Public](#)
+[🔗 View Full Interactive Dashboard on Tableau Public](https://public.tableau.com/app/profile/ray.otieno/viz/IBMHRDashboard_17528679370860/Dashboard1?publish=yes)
 
 ---
 
@@ -62,15 +62,15 @@ Welcome to my data analysis portfolio! I'm Raymond, a data analyst with strong s
 - Provided insight into global tech compensation trends
 
 ![View Dashboard](1 Data analytics IT job salaries project.png)
-[🔗 View Full Interactive Dashboard on Tableau Public](#)
+[🔗 View Full Interactive Dashboard on Tableau Public](https://public.tableau.com/app/profile/ray.otieno/viz/JobSalariesDashboard_17528681625450/Dashboard1?publish=yes)
 
 ---
 
 ## 📬 Let's Connect
 
 - 📧 Email: otienoraymond10@gmail.com  
-- 💼 LinkedIn: [Your LinkedIn URL]  
-- 🌐 Portfolio Website: [Your portfolio site URL if any]
+- 💼 LinkedIn: [https://www.linkedin.com/in/raymond-otieno-88b41128a/]  
+- 🌐 Portfolio Website: [Coming Soon]
 
 ---
 
