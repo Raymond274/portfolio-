@@ -25,7 +25,7 @@ Welcome to my data analysis portfolio! I'm Raymond, a data analyst with strong s
 - Analyzed usage by time, season, and user type  
 - Identified patterns in peak hours and urban mobility
 
-[View Dashboard](4 Analysis of Nairobi bike rides beween 205-2016.png)  
+![View Dashboard](4 Analysis of Nairobi bike rides beween 205-2016.png)  
 
 ---
 
@@ -36,7 +36,7 @@ Welcome to my data analysis portfolio! I'm Raymond, a data analyst with strong s
 - Used classification models to identify preferences by region  
 - Visualized global content distribution and genre trends
 
-[View Dashboard](3 Data Analytics Netflix Movies & TV Shows watched project.png)
+![View Dashboard](3 Data Analytics Netflix Movies & TV Shows watched project.png)
 
 ---
 
@@ -47,7 +47,7 @@ Welcome to my data analysis portfolio! I'm Raymond, a data analyst with strong s
 - Explored relationships between department, education, and compensation  
 - Provided visual summaries for HR policy recommendations
 
-[View Dashboard](2 Data analytics IBM Employees salaries per department project.png)
+![View Dashboard](2 Data analytics IBM Employees salaries per department project.png)
 
 ---
 
@@ -58,7 +58,7 @@ Welcome to my data analysis portfolio! I'm Raymond, a data analyst with strong s
 - Mapped income by role and location using interactive plots  
 - Provided insight into global tech compensation trends
 
-[View Dashboard](1 Data analytics IT job salaries project.png)
+![View Dashboard](1 Data analytics IT job salaries project.png)
 
 ---
 
