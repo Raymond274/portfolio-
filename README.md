@@ -36,7 +36,7 @@ Welcome to my data analysis portfolio! I'm Raymond, a data analyst with strong s
 - Used classification models to identify preferences by region  
 - Visualized global content distribution and genre trends
 
-[View Dashboard](#)
+[View Dashboard](3 Data Analytics Netflix Movies & TV Shows watched project.png)
 
 ---
 
